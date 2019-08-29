@@ -1,2 +1,3 @@
 # git-github
-test project
+test project .
+thes is for a test project .
